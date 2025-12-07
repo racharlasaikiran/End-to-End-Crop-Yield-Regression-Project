@@ -48,3 +48,6 @@ Root Mean Squared Error (RMSE).
 
 - Model Deployment Using Joblib:-
 The selected Linear Regression (Model 3) was successfully deployed using Joblib for model serialization. The trained model and preprocessing scaler were saved as .joblib files and later loaded for real-time prediction in the deployment environment.
+
+## Due to large size data is uploaded in drive 
+https://drive.google.com/drive/folders/1j4StICBI4_oDsq0hbeJVm_3wxPcfOT1z?usp=drive_link
